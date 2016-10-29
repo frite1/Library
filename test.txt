@@ -1,0 +1,5 @@
+Tjenare Johan!
+
+Testar att lägga till fil med "git add" lokalt från min dator!
+
+Du kan bara ta bort den! :-)
